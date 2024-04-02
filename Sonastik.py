@@ -1,7 +1,7 @@
 
 from os import remove, path,system
 from Moodul import *
-
+from random import *
 
 rus=[] #vene kelsed
 est=[] #eestikeelsed sonad
@@ -24,6 +24,7 @@ while True:
         rus=teksti_lisamine_failisse("Rus.txt",rus_sona,rus)      
     elif v=="3":
         print("Teadmiste Kontroll")
+        teadmiste_kontroll(est,rus)
     elif v=="4":       
         räägimine(est,rus)
     elif v=="5":

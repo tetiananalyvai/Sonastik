@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0ec1c265-c32f-45e2-8ad2-5acfb08a1c64</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Kodutoo.py</StartupFile>
+    <StartupFile>Sonastik.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
